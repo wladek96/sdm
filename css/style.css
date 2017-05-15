@@ -30,17 +30,18 @@ nav ul {
 
 nav li {
   display: inline-block;
-  padding-right: 15%;
-  padding-left: 15%; }
+  padding-right: 5%;
+  padding-left: 5%; }
 
 a {
   color: white;
-  font-weight: 100;
-  font-size: 2em; }
+  font-weight: 600;
+  font-size: 1.2em; }
 
 .dir {
   width: 100%;
-  box-shadow: 5 5 5 5; }
+  margin-top: 15vh;
+  border: solid 10px white; }
 
 .dirtxt {
   color: white;
@@ -55,3 +56,41 @@ h1 {
 .about {
   color: white;
   font-size: 1.5em; }
+
+.abo {
+  background-image: url(../img/abo.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 75vh; }
+
+.abus {
+  padding-top: 15vh; }
+
+.thesis {
+  margin-top: 25px;
+  color: white;
+  font-weight: 600;
+  text-align: center;
+  font-size: 1.5em; }
+
+.portf {
+  background-image: url(../img/portf.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh; }
+
+.obj {
+  margin: 10vw;
+  font-size: 6em;
+  color: white;
+  text-shadow: 0px 22px 100px black; }
+
+.contacts {
+  position: absolute;
+  margin: 20vh;
+  z-index: 1;
+  background-color: blue;
+  color: white;
+  text-align: center;
+  box-shadow: 0px 22px 100px black;
+  padding: 25px; }
