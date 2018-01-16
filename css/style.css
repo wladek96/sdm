@@ -122,3 +122,15 @@ h2 {
 .jop {
   color: black;
   padding-bottom: 50px; }
+
+.roller {
+  background-image: url(../img/rol.png);
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  margin-top: 5vh;
+}
+.roller-photos {
+  width: 100%;
+  margin-bottom: 5vh;
+}
