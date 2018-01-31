@@ -117,8 +117,8 @@ h2 {
   text-align: center; }
 
 .job {
-  margin-top: 5vh;
-  margin-bottom: 5vh; }
+  margin-top: 50px;
+  margin-bottom: 50px; }
 
 .jop {
   color: black;
@@ -134,4 +134,7 @@ h2 {
 .roller-photos {
   width: 100%;
   margin-bottom: 5vh;
+}
+.pg-photos{
+
 }
