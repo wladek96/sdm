@@ -1,6 +1,9 @@
-html {
+body {
   overflow-x: hidden;
-  font-family: sans-serif;}
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+}
 
 .main-head {
   background-image: url(../img/main-head.jpg);
@@ -135,6 +138,9 @@ h2 {
   width: 100%;
   margin-bottom: 5vh;
 }
-.pg-photos{
-
+.polu {
+  height: 230px;
+}
+.woe {
+  margin-top: 50px;
 }
