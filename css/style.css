@@ -144,3 +144,9 @@ h2 {
 .woe {
   margin-top: 50px;
 }
+
+.video {
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+  width: 100%
+}
