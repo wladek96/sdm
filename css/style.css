@@ -1,9 +1,5 @@
 body {
-  overflow-x: hidden;
-  font-family: sans-serif;
-  font-size: 14px;
-  font-weight: bold;
-}
+  overflow-x: hidden; }
 
 .main-head {
   background-image: url(../img/main-head.jpg);
@@ -97,6 +93,7 @@ h1 {
   background-color: blue;
   color: white;
   text-align: center;
+  -webkit-box-shadow: 0px 22px 100px black;
   box-shadow: 0px 22px 100px black;
   padding: 25px; }
 
@@ -120,33 +117,9 @@ h2 {
   text-align: center; }
 
 .job {
-  margin-top: 50px;
-  margin-bottom: 50px; }
+  margin-top: 5vh;
+  margin-bottom: 5vh; }
 
 .jop {
   color: black;
   padding-bottom: 50px; }
-
-.roller {
-  background-image: url(../img/rol.png);
-  background-size: cover;
-  background-position: center;
-  min-height: 100vh;
-  margin-top: 5vh;
-}
-.roller-photos {
-  width: 100%;
-  margin-bottom: 5vh;
-}
-.polu {
-  height: 230px;
-}
-.woe {
-  margin-top: 50px;
-}
-
-.video {
-  margin-top: 5vh;
-  margin-bottom: 5vh;
-  width: 100%
-}
